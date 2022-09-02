@@ -30,6 +30,7 @@
       "drupal/migrate_tools": "^5.1",
       "drupal/migrate_plus": "^5.3",
       "drupal/migrate_file": "^2.0.1",
+      "drupal/views_migration": "^1.8",
     },
     "conflict": {
         "drupal/drupal": "*"
