@@ -168,6 +168,8 @@
     "drupal/core-vendor-hardening": "^8.8"
     "drupal/csp": "^1.13"
     "drupal/ctools": "^3.4"
+    "drupal/domain": "^8.x-1.0-beta6"  
+    "drupal/domain_language": "^2.0.0-alpha1"   
     "drupal/entity": "^1.1"
     "drupal/facets": "^1.5"
     "drupal/features": "^3.11"
