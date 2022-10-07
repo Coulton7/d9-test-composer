@@ -149,7 +149,6 @@
     "dinbror/blazy": "^1.8"
     "drush/drush": "^9",
     "drupal/address": "^1.8"
-    "drupal/adminimal_theme": "^1.5"
     "drupal/advagg": "^4.1"
     "drupal/animate_css": "^1.1"
     "drupal/backup_migrate": "^4.1"
@@ -189,6 +188,13 @@
     "drupal/geofield": "^1.36",
     "drupal/geolocation": "^3.2"
     "drupal/google_tag": "^1.4"
+    "drupal/gin": "^3.0-beta5"
+    "drupal/gin_lb": "^1.0.0-beta16"
+    "drupal/gin_toolbar": "^1.0-beta22"
+    "drupal/gin_login": "^1.3"
+    "drupal/gin_dashboard": "^2.5"   
+    "drupal/gin_gutenberg": "^1.1.2"
+    "drupal/gutenberg": "^2.5"
     "drupal/httpbl": "1.x-dev"
     "drupal/hubspot": "^1.0@alpha"
     "drupal/job_scheduler": "^3.1"
